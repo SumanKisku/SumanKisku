@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Aspiring Full Stack Developer from India** </h3>
 
-- 🔭 I’m currently working on **Portfolio Project with Gatsby**
 - 🌱 I’m currently learning **MERN Stack(React.JS)**
 - 🤔 I’m looking for help with **Remote Job**
 - 😄 Pronouns: He/Him
