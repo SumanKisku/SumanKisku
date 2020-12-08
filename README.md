@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**<h3 align="left">Aspiring Full Stack Developer from India** </h3>
+**<h3 align="left">Aspiring Web Developer from India** </h3>
 
-- 🌱 I’m currently learning **MERN Stack(React.JS)**
-- 🤔 I’m looking for help with **Remote Job**
+- 🌱 I’m currently learning **React.JS**
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
