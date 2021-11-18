@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**<h3 align="left">Aspiring Web Developer from India** </h3>
+**<h3 align="left">Front Web Developer from India** </h3>
 
-- 🌱 I’m currently learning **React.JS**
+<!-- - 🌱 I’m currently learning **React.JS** -->
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
